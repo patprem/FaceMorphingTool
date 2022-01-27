@@ -49,7 +49,7 @@ This section lists the major frameworks/libraries and deep learning architecture
 * [JoJoGAN](https://arxiv.org/pdf/2112.11641.pdf)
 * [OpenCV](https://opencv.org/)
 * [PyTorch](https://pytorch.org/)
-* [TensorFlow](https://pytorch.org/)
+* [TensorFlow](https://www.tensorflow.org/)
 * [wandb](https://docs.wandb.ai/)
 * [scikit](https://scikit-learn.org/stable/)
 * [NumPy](https://numpy.org/)
@@ -58,9 +58,18 @@ This section lists the major frameworks/libraries and deep learning architecture
 
 <!-- GETTING STARTED -->
 ## Getting Started
-This project uses both StyleGAN2 and JoJoGAN to observe and analyze the differences between the two architectures. Results from both models are illustrated to draw a conclusion, where JoJoGAN performs much better than StyleGAN2.
+This project uses both StyleGAN2 and JoJoGAN to observe and analyze the differences between the two architectures. Results from both models are illustrated to draw a conclusion, where JoJoGAN proves to perform much better than StyleGAN2. To make things easier and to deliver this project accessible to everyone, Google Colab is the primary platform used in this project.
 
 ### Prerequisites
+
+The following lists the prerequisites required to kickstart the project:
+* Google Colab
+* Samples of selfie images and passport photo style images
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
 Few software will have to be installed into Colab, for the notebook to work. 
 * StyleGAN2
   ```sh
@@ -79,10 +88,7 @@ Few software will have to be installed into Colab, for the notebook to work.
   wget http://dlib.net/files/shape_predictor_5_face_landmarks.dat.bz2
   bzip2 -d shape_predictor_5_face_landmarks.dat.bz2
   ```
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
+  
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
