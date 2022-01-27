@@ -58,12 +58,14 @@ This section lists the major frameworks/libraries and deep learning architecture
 ## Getting Started
 This project uses both StyleGAN2 and JoJoGAN to observe and analyze the differences between the two architectures. Results from both models are illustrated to draw a conclusion, where JoJoGAN proves to perform much better than StyleGAN2. To make things easier and to deliver this project accessible to everyone, Google Colab is the primary platform used in this project.
 
-**Everything to get started this project is in this [Google Colab notebook](https://colab.research.google.com/github/mchong6/JoJoGAN/blob/main/stylize.ipynb)
+**Everything to get started this project are in these two Google Colab notebooks:**
+1. Face Morphing using StyleGAN2: [FM StyleGAN2](https://colab.research.google.com/drive/1nsvkKFWw5_g6YDWKaH6aae4VrdBMULVR#scrollTo=CTiPS-Zu-ybP)
+2. Face Morphing using JoJoGAN: [FM JoJoGAN](https://colab.research.google.com/drive/1Nmm4UT4x4eIcDZkFGeU_RS1trcXuSu00)
 
 ### Prerequisites
 
 The following lists the prerequisites required to kickstart the project:
-* Google Colab
+* Google Colab account
 * Samples of selfie images and passport photo style images
 
 ### Installation
@@ -75,6 +77,7 @@ _The instructions to start this project are simple. The two files named as Style
 Both notebooks will just need to be downloaded and imported into Google Colab on your local machine for uploading your desired source and target images.
 
 Few software will have to be installed into Colab, for the notebook to work. 
+**NOTE: The following commands are already pre-typed in the above Colab notebooks.**
 * StyleGAN2
   ```sh
   git clone https://github.com/NVlabs/stylegan2-ada-pytorch.git
