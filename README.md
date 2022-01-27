@@ -49,6 +49,7 @@ This section lists the major frameworks/libraries and deep learning architecture
 * [PyTorch](https://pytorch.org/)
 * [TensorFlow](https://www.tensorflow.org/)
 * [wandb](https://docs.wandb.ai/)
+* [Matplotlib](https://matplotlib.org/)
 * [scikit](https://scikit-learn.org/stable/)
 * [NumPy](https://numpy.org/)
 
