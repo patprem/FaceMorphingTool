@@ -2,8 +2,8 @@
 
 | Architecture | Source Image | Reference Image | Final Morphed Frame |
 |     :---:    |     :---:    |     :---:       |       :---:         |
-| StyleGAN2   | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/target1.jpg" width="175" height ="225"> |
-| JoJoGAN     | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/target1.jpg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/MorphedJoJo.jpeg" width="175" height ="225">
+| StyleGAN2   | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/33670150e51806e30896f8da9b7cb0ef8da4a7f5/images/target2.jpg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/MorphedFrame.jpg" width="200" height ="225">
+| JoJoGAN     | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/33670150e51806e30896f8da9b7cb0ef8da4a7f5/images/target2.jpg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/37b3b4a12fd634c7f37e17d5e890b6f838731e48/images/MorphedJoJo.png" width="200" height ="225"> |
 
 
 
