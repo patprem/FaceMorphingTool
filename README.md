@@ -58,6 +58,8 @@ This section lists the major frameworks/libraries and deep learning architecture
 ## Getting Started
 This project uses both StyleGAN2 and JoJoGAN to observe and analyze the differences between the two architectures. Results from both models are illustrated to draw a conclusion, where JoJoGAN proves to perform much better than StyleGAN2. To make things easier and to deliver this project accessible to everyone, Google Colab is the primary platform used in this project.
 
+**Everything to get started this project is in this [Google Colab notebook](https://colab.research.google.com/github/mchong6/JoJoGAN/blob/main/stylize.ipynb)
+
 ### Prerequisites
 
 The following lists the prerequisites required to kickstart the project:
