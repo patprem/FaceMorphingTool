@@ -36,7 +36,7 @@ Why is this important?
 * To transform one form into another seemingly seamlessly.
 * To overcome identity thefts that uses morphed facial images in identification documents.
 
-Pleas check the following sections to get started.
+Please check the following sections to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -58,7 +58,7 @@ This section lists the major frameworks/libraries and deep learning architecture
 ## Getting Started
 This project uses both StyleGAN2 and JoJoGAN to observe and analyze the differences between the two architectures. Results from both models are illustrated to draw a conclusion, where JoJoGAN proves to perform much better than StyleGAN2. To make things easier and to deliver this project accessible to everyone, Google Colab is the primary platform used in this project.
 
-**Everything to get started this project are in these two Google Colab notebooks:**
+**Everything to get started with this project are provided in these two Google Colab notebooks:**
 1. Face Morphing using StyleGAN2: [FM StyleGAN2](https://colab.research.google.com/drive/1nsvkKFWw5_g6YDWKaH6aae4VrdBMULVR#scrollTo=CTiPS-Zu-ybP)
 2. Face Morphing using JoJoGAN: [FM JoJoGAN](https://colab.research.google.com/drive/1Nmm4UT4x4eIcDZkFGeU_RS1trcXuSu00)
 
@@ -71,13 +71,13 @@ The following lists the prerequisites required to kickstart the project:
 ### Installation
 
 _The instructions to start this project are simple. The two files named as StyleGAN2.ipynb and JoJoGAN.ipynb are the two main notebooks used in this project._
-1. StyleGAN2.ipynb: Used to perform face morphing using StyleGAN2 architecture.
-2. JoJoGAN.ipynb: Used to perform face morphing using JoJoGAN architecture.
+_1. StyleGAN2.ipynb: Used to perform face morphing using StyleGAN2 architecture._
+_2. JoJoGAN.ipynb: Used to perform face morphing using JoJoGAN architecture._
 
-Both notebooks will just need to be downloaded and imported into Google Colab on your local machine for uploading your desired source and target images.
+_Both notebooks will just need to be downloaded and imported into Google Colab on your local machine for uploading your desired source and target images._
 
-Few software will have to be installed into Colab, for the notebook to work. 
-**NOTE: The following commands are already pre-typed in the above Colab notebooks.**
+_Few software will have to be installed into Colab, for the notebook to work. 
+**NOTE: The following commands are already pre-typed in the above Colab notebooks.**_
 * StyleGAN2
   ```sh
   git clone https://github.com/NVlabs/stylegan2-ada-pytorch.git
