@@ -59,8 +59,8 @@ This section lists the major frameworks/libraries and deep learning architecture
 This project uses both StyleGAN2 and JoJoGAN to observe and analyze the differences between the two architectures. Results from both models are illustrated to draw a conclusion, where JoJoGAN proves to perform much better than StyleGAN2. To make things easier and to deliver this project accessible to everyone, Google Colab is the primary platform used in this project.
 
 **Everything to get started with this project are provided in these two Google Colab notebooks:**
-1. Face Morphing using StyleGAN2: [FM StyleGAN2](https://colab.research.google.com/drive/1nsvkKFWw5_g6YDWKaH6aae4VrdBMULVR#scrollTo=CTiPS-Zu-ybP)
-2. Face Morphing using JoJoGAN: [FM JoJoGAN](https://colab.research.google.com/drive/1Nmm4UT4x4eIcDZkFGeU_RS1trcXuSu00)
+1. Face Morphing using StyleGAN2: [FM StyleGAN2](https://github.com/patprem/FaceMorphingTool/blob/b39a13ceb85393e2b86850fcc82456f687bfca8f/StyleGAN2.ipynb)
+2. Face Morphing using JoJoGAN: [FM JoJoGAN](https://github.com/patprem/FaceMorphingTool/blob/b39a13ceb85393e2b86850fcc82456f687bfca8f/JoJoGAN.ipynb)
 
 ### Prerequisites
 
