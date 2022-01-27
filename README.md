@@ -1,6 +1,7 @@
 # Face Morphing between Two Real Images using StyleGAN2 and JoJoGAN
 
 <!-- TABLE OF CONTENTS -->
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -17,11 +18,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
