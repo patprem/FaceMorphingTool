@@ -1,5 +1,19 @@
 # Face Morphing between Two Real Images using StyleGAN2 and JoJoGAN
 
+| Architecture | Source Image | Reference Image | Final Morphed Frame |
+|     :---:    |     :---:    |     :---:       |       :---:         |
+| StyleGAN2   | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/target1.jpg" width="175" height ="225"> |
+| JoJoGAN     | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/target1.jpg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/MorphedJoJo.jpeg" width="175" height ="225">
+
+
+
+
+
+
+
+
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -98,6 +112,10 @@ Few software will have to be installed into Colab, for the notebook to work.
 ## Usage
 
 This section illustrates the results from both StyleGAN2 and JoJoGAN architectures for visualization and comparison purposes.
+
+
+
+
 
 For instance, the below image is the source image that we wish to morph into passport photo style.
 <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="200" height ="250">
