@@ -72,8 +72,8 @@ The following lists the prerequisites required to kickstart the project:
 ### Installation
 
 _The instructions to start this project are simple. The two files named as StyleGAN2.ipynb and JoJoGAN.ipynb are the two main notebooks used in this project._
-_1. StyleGAN2.ipynb: Used to perform face morphing using StyleGAN2 architecture._
-_2. JoJoGAN.ipynb: Used to perform face morphing using JoJoGAN architecture._
+1. StyleGAN2.ipynb: Used to perform face morphing using StyleGAN2 architecture.
+2. JoJoGAN.ipynb: Used to perform face morphing using JoJoGAN architecture.
 
 _Both notebooks will just need to be downloaded and imported into Google Colab on your local machine for uploading your desired source and target images._
 
