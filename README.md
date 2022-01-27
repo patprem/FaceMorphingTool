@@ -20,7 +20,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 
@@ -39,7 +38,7 @@ Why is this important?
 * To transform one form into another seemingly seamlessly.
 * To overcome identity thefts that uses morphed facial images in identification documents.
 
-Use the `BLANK_README.md` to get started.
+Pleas check the following sections to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -48,25 +47,38 @@ Use the `BLANK_README.md` to get started.
 This section lists the major frameworks/libraries and deep learning architectures used to bootstrap this project. 
 * [StyleGAN2](https://github.com/NVlabs/stylegan2#readme)
 * [JoJoGAN](https://arxiv.org/pdf/2112.11641.pdf)
-* [PyTorch](https://pytorch.org/)
 * [OpenCV](https://opencv.org/)
+* [PyTorch](https://pytorch.org/)
+* [TensorFlow](https://pytorch.org/)
+* [wandb](https://docs.wandb.ai/)
+* [scikit](https://scikit-learn.org/stable/)
 * [NumPy](https://numpy.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-
+This project uses both StyleGAN2 and JoJoGAN to observe and analyze the differences between the two architectures. Results from both models are illustrated to draw a conclusion, where JoJoGAN performs much better than StyleGAN2.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Few software will have to be installed into Colab, for the notebook to work. 
+* StyleGAN2
   ```sh
-  npm install npm@latest -g
+  git clone https://github.com/NVlabs/stylegan2-ada-pytorch.git
   ```
-
+* JoJoGAN
+  ```sh
+  git clone https://github.com/patprem/JoJoGAN.git
+  ```
+* ninja
+  ```sh
+  pip install ninja
+  ```
+* Preprocessing Tools
+  ```sh
+  wget http://dlib.net/files/shape_predictor_5_face_landmarks.dat.bz2
+  bzip2 -d shape_predictor_5_face_landmarks.dat.bz2
+  ```
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
