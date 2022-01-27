@@ -1,2 +1,2 @@
-# FaceMorphing
-This notebook allows you to choose a starting and ending image and use StyleGAN2 to produce a "morph" video between the two pictures. For the morph to work correctly, both images should be of human faces. It helps if both pictures are cropped reasonably well to a square portrait to eliminate the possibility of two faces being present in one image. The preprocessing code will lock in on the exact positioning of each image, so your crop does not have to be perfect. The main point of your crop is for you to remove anything else that might be confused for a face. If multiple faces are detected, you will receive an error.
+# Face Morphing between Two Real Images using StyleGAN2 and OpenCV
+
