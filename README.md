@@ -102,7 +102,7 @@ This section illustrates the results from both StyleGAN2 and JoJoGAN architectur
 | StyleGAN2   | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/Selfie1.jpeg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/33670150e51806e30896f8da9b7cb0ef8da4a7f5/images/target2.jpg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/MorphedStyleGAN.jpg" width="180" height ="200">
 | JoJoGAN     | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/Selfie1.jpeg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/Target1.jpg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/37b3b4a12fd634c7f37e17d5e890b6f838731e48/images/MorphedJoJo.png" width="180" height ="200"> |
 
-The below depicts the transition video for the same selfie image obtained using StyleGAN2 model.
+The below depicts the transition video for the same selfie image obtained using **StyleGAN2** model. The final morphed frame is the frame seen halfway through the video.
 <p align="center">
   <img src="https://github.com/patprem/FaceMorphing/blob/fb48b08a97a0c36d9e9ec3b33d0c4c4379d2c86f/transition_videos/FaceMorph_Source1.gif" width="275" height="300" />
 </p>
