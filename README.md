@@ -1,19 +1,4 @@
 # Face Morphing between Two Real Images using StyleGAN2 and JoJoGAN
-
-| Architecture | Source Image | Reference Image | Final Morphed Frame |
-|     :---:    |     :---:    |     :---:       |       :---:         |
-| StyleGAN2   | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/33670150e51806e30896f8da9b7cb0ef8da4a7f5/images/target2.jpg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/MorphedFrame.jpg" width="200" height ="225">
-| JoJoGAN     | <img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/33670150e51806e30896f8da9b7cb0ef8da4a7f5/images/target2.jpg" width="175" height ="225"> | <img src="https://github.com/patprem/FaceMorphing/blob/37b3b4a12fd634c7f37e17d5e890b6f838731e48/images/MorphedJoJo.png" width="200" height ="225"> |
-
-
-
-
-
-
-
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -112,23 +97,15 @@ Few software will have to be installed into Colab, for the notebook to work.
 ## Usage
 
 This section illustrates the results from both StyleGAN2 and JoJoGAN architectures for visualization and comparison purposes.
+| Architecture | Source Image | Reference Image | Final Morphed Frame |
+|     :---:    |     :---:    |     :---:       |       :---:         |
+| StyleGAN2   | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/Selfie1.jpeg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/33670150e51806e30896f8da9b7cb0ef8da4a7f5/images/target2.jpg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/MorphedStyleGAN.jpg" width="180" height ="200">
+| JoJoGAN     | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/Selfie1.jpeg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/633c647236458583bbe16c3be4282a3f9463fe3b/images/Target1.jpg" width="150" height ="200"> | <img src="https://github.com/patprem/FaceMorphing/blob/37b3b4a12fd634c7f37e17d5e890b6f838731e48/images/MorphedJoJo.png" width="180" height ="200"> |
 
-
-
-
-
-For instance, the below image is the source image that we wish to morph into passport photo style.
-<img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="200" height ="250">
-
-And, the target image (passport photo style image) is shown below.
-<img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/target1.jpg" width="200" height ="250">
-
-The final morphed frame is shown as:
-
-
-
-
-
+The below depicts the transition video for the same selfie image obtained using StyleGAN2 model.
+<p align="center">
+  <img src="https://github.com/patprem/FaceMorphing/blob/fb48b08a97a0c36d9e9ec3b33d0c4c4379d2c86f/transition_videos/FaceMorph_Source1.gif" width="275" height="300" />
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
