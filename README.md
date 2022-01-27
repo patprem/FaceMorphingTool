@@ -99,7 +99,13 @@ Few software will have to be installed into Colab, for the notebook to work.
 
 This section illustrates the results from both StyleGAN2 and JoJoGAN architectures for visualization and comparison purposes.
 
-![Face Morph](https://github.com/patprem/FaceMorphing/blob/8c16d28a59b005727dc196e9c856011795c30faf/images/facemorph.png)
+For instance, the below image is the source image that we wish to morph into passport photo style.
+<img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/source1.jpeg" width="200" height ="250">
+
+And, the target image (passport photo style image) is shown below.
+<img src="https://github.com/patprem/FaceMorphing/blob/f371afea1d6d1836f833a6bf4798bb8f2a8b30bb/images/target1.jpg" width="200" height ="250">
+
+The final morphed frame is shown as:
 
 
 
