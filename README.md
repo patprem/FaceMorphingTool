@@ -110,8 +110,6 @@ This section illustrates the results from both architectures for visualization a
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* [John Heaton](https://choosealicense.com)
-* [JoJoGAN](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+This code borrows snippets of code from [StyleGAN2 Morph Between Two Real Images, John Heaton](https://github.com/jeffheaton/stylegan2-toys) and [JoJoGAN: One Shot Face Stylization](https://github.com/mchong6/JoJoGAN) and rewritten to incorporate into my project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
