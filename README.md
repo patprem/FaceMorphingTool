@@ -97,7 +97,7 @@ Few software will have to be installed into Colab, for the notebook to work.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This section illustrates the results from both architectures for visualization and comparison purposes.
+This section illustrates the results from both StyleGAN2 and JoJoGAN architectures for visualization and comparison purposes.
 
 
 
