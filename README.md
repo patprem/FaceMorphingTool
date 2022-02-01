@@ -123,6 +123,8 @@ The below depicts the transition video for the same selfie image obtained using 
 * Show your support by ⭐ the project.
 * Submit pull requests and improve the repo overall quality.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 The codes used in this project borrows snippets of code from [StyleGAN2 Morph Between Two Real Images, John Heaton](https://github.com/jeffheaton/stylegan2-toys) and [JoJoGAN: One Shot Face Stylization](https://github.com/mchong6/JoJoGAN) and rewritten to incorporate into my project.
