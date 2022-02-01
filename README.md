@@ -17,7 +17,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contribute">Contribute</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a>
+    
   </ol>
 </details>
 
@@ -114,6 +116,12 @@ The below depicts the transition video for the same selfie image obtained using 
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTRIBUTE -->
+## Contribute
+
+* Show your support by ⭐ the project.
+* Submit pull requests and improve the repo overall quality.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
