@@ -75,7 +75,7 @@ _The instructions to start this project are simple. The two files named as Style
 1. StyleGAN2.ipynb: Used to perform face morphing using StyleGAN2 architecture.
 2. JoJoGAN.ipynb: Used to perform face morphing using JoJoGAN architecture.
 
-_Both notebooks will just need to be downloaded and imported into Google Colab on your local machine for uploading your desired source and target images or directly click on the notebook links provided under Prerequisities section._
+_Both notebooks will just need to be downloaded and imported into Google Colab on your local machine for uploading your desired source and target images or simply click on the notebook links provided under Prerequisities section._
 
 _Few software will have to be installed into Colab, for the notebook to work. 
 **NOTE: The following commands are already pre-typed in the above Colab notebooks.**_
