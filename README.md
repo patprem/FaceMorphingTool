@@ -120,7 +120,8 @@ The below depicts the transition video for the same selfie image obtained using 
 <!-- CONTRIBUTE -->
 ## Contribute
 
-* Show your support by ⭐ the project.
+If you like this project and interested to contribute:
+* Please show your support by ⭐ (star) the project.
 * Submit pull requests and improve the repo overall quality.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
