@@ -102,7 +102,7 @@ _Few software will have to be installed into Colab, for the notebook to work.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Results
 
 This section illustrates the results from both StyleGAN2 and JoJoGAN architectures for visualization and comparison purposes.
 | Architecture | Source Image | Reference Image | Final Morphed Frame |
